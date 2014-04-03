@@ -1,7 +1,6 @@
-          
 $(document).ready(function() {
 
-$('#Panel').prepend('<div id="divRss"></div>');
+$('#Panel').prepend('</br><div id="divRss" class="Box"></div>');
 
 $('#divRss').FeedEk({
     FeedUrl : 'http://rss.cnn.com/rss/edition.rss',

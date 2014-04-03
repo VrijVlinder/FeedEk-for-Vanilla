@@ -14,7 +14,7 @@ Contact Vanilla Forums Inc. at support [at] vanillaforums [dot] com
 $PluginInfo['FeedEk'] = array(
    'Name'=>'FeedEk',
    'Description' => "This plugin adds an RSS FeedEk on the panel. ",
-   'Version' => '1.1',
+   'Version' => '1.2',
    'Author' => "VrijVlinder",
    'AuthorEmail' => 'contact@vrijvlinder.com',
    'AuthorUrl' => "http://www.vrijvlinder.com"
