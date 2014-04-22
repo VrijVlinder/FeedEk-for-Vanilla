@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-$('#Panel').prepend('</br><div id="divRss" class="Box"></div>');
+//Add the link to your RSS Feed below
 
 $('#divRss').FeedEk({
     FeedUrl : 'http://rss.cnn.com/rss/edition.rss',
